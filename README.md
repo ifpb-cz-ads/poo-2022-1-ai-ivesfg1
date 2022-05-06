@@ -24,4 +24,4 @@ E interfaces, tais quais:
 - Treinador, 
 - LiderDeGinasio, 
 - MembroDaElite.
-- E outras que se façam necessárias.
+- E outras que se façam necessárias (Como por exemplo, os tipos dos monstrinhos).
