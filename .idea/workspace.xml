@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd582b83-2445-4019-916c-c4e2a8624e92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PokemonPackage/PokeBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokemonPackage/PokeBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/poo-2022-1-ai-ivesfg1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poo-2022-1-ai-ivesfg1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PokemonPackage/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokemonPackage/Pokemon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +35,83 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado">
+    <configuration name="PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
+      <option name="METHOD_NAME" value="DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
+      <option name="METHOD_NAME" value="DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForIgualDefesaDoInimigo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
+      <option name="METHOD_NAME" value="DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForIgualDefesaDoInimigo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
+      <option name="METHOD_NAME" value="DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonTest.DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
+      <option name="METHOD_NAME" value="DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" />
+        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" />
+        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForIgualDefesaDoInimigo" />
+        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" />
+        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
