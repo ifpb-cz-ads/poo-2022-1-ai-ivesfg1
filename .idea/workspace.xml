@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd582b83-2445-4019-916c-c4e2a8624e92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/poo-2022-1-ai-ivesfg1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poo-2022-1-ai-ivesfg1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PokemonPackage/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokemonPackage/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PokemonPackage/PokeBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokemonPackage/PokeBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreinadorPackage/Treinador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreinadorPackage/Treinador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,27 @@
       <recent name="$PROJECT_DIR$/src/" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado">
+  <component name="RunManager" selected="JUnit.BoxTest.DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio">
+    <configuration name="BoxTest.DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BoxTest" />
+      <option name="METHOD_NAME" value="DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxTest.DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poo-2022-1-ai-ivesfg1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BoxTest" />
+      <option name="METHOD_NAME" value="DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="poo-2022-1-ai-ivesfg1" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,33 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
-      <option name="METHOD_NAME" value="DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PokemonTest.DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
-      <option name="METHOD_NAME" value="DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BoxTest.DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" />
+        <item itemvalue="JUnit.BoxTest.DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" />
         <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" />
         <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" />
         <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForIgualDefesaDoInimigo" />
-        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoZeroQuandoValorDoDanoDoAtacanteForMenorQueOValorDaDefesaDoAtacado" />
-        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoInteiroAoAtacarQuandoPoderDeAtaqueForSuficiente" />
       </list>
     </recent_temporary>
   </component>

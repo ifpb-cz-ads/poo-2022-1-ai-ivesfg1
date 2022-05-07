@@ -59,4 +59,9 @@ public class Pokemon {
     public int getVelocidade() {
         return velocidade;
     }
+
+    @Override
+    public String toString() {
+        return this.nome;
+    }
 }
