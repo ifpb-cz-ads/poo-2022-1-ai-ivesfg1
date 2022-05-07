@@ -1,5 +1,6 @@
 package JogadorPackage;
 
+import GinasioPackage.Insignia;
 import PokemonPackage.PokeBox;
 import PokemonPackage.Pokemon;
 
@@ -9,12 +10,14 @@ public class Jogador {
     private SexoEnum sexoEnum;
     private Pokemon[] party;
     private PokeBox pokeBox;
+    private Insignia[] insignias;
 
     public Jogador(String nome, SexoEnum sexoEnum) {
         this.nome = nome;
         this.sexoEnum = sexoEnum;
         this.party = new Pokemon[6];
         this.pokeBox = new PokeBox();
+        this.insignias = new Insignia[8];
     }
 
     public void capturarPokemon(Pokemon pokemon){
@@ -48,6 +51,15 @@ public class Jogador {
             }
         }
         return contagemDeSlotsLivres == 0;
+    }
+
+    public void receberInsignia(Insignia insigniaDoLider) {
+        for (int i = 0; i < this.party.length; i++) {
+            if (this.insignias[i] == null && this.insignias[i] != insigniaDoLider){
+                this.insignias[i] = insigniaDoLider;
+                return;
+            }
+        }
     }
 
     public String getNome() {

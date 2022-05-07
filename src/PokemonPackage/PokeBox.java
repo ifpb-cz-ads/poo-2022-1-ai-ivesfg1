@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class PokeBox {
 
+    // TODO: Implementar metodo de busca de pokemon na box.
+
     private ArrayList<Pokemon> pokemons = new ArrayList<>();
 
     public void depositarPokemon(Pokemon pokemon) {
