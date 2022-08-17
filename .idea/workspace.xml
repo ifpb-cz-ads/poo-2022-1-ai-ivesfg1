@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd582b83-2445-4019-916c-c4e2a8624e92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8bdbe8f-5075-49d9-84b5-55a9bf393a19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,91 +10,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="28odMCug8vBnaNBZcqemL0jJ8q2" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2DSOuFohJiMex5lPG8sCVOkU8tT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="GinasioPackage" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxTest.DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BoxTest" />
-      <option name="METHOD_NAME" value="DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxTest.DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BoxTest" />
-      <option name="METHOD_NAME" value="DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
-      <option name="METHOD_NAME" value="DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poo-2022-1-ai-ivesfg1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PokemonTest" />
-      <option name="METHOD_NAME" value="DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" />
-      <option name="TEST_OBJECT" value="method" />
+      <module name="projetoPoo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,33 +40,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.BoxTest.DeveAdicionarCorretamenteNaPartyDoJogadorQuandoHouverSlotVazio" />
-        <item itemvalue="JUnit.BoxTest.DeveAdicionarCorretamenteNaBoxQuandoPartyDoJogadorEstiverCheia" />
-        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForMenorQueDefesaDoAtacado" />
-        <item itemvalue="JUnit.PokemonTest.DeveInflingirDanoComDiferencaAoAtacarQuandoPoderDeAtaqueForSuficiente" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fd582b83-2445-4019-916c-c4e2a8624e92" name="Changes" comment="" />
-      <created>1651886821815</created>
+      <changelist id="f8bdbe8f-5075-49d9-84b5-55a9bf393a19" name="Changes" comment="" />
+      <created>1660689241305</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651886821815</updated>
+      <updated>1660689241305</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

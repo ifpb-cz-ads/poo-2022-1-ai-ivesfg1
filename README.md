@@ -1,27 +1,11 @@
-# Projeto Pokemon
+# Projeto Loja Virtual
 
-Como tema da atividade prática de desenvolvimento Orientado a Objetos, utilizando a linguagem Java, será desenvolvido uma simulação de jogo Pokemon. O sistema é baseado em jogos da franquia original de Pokemon, para GameBoy, Nintendo DS, Nintendo 3DS e agora também para Nintendo Switch.
+Como tema da atividade prática de desenvolvimento Orientado a Objetos, utilizando a linguagem Java, será desenvolvido uma simulação de Jogo Pokemon
+O "Jogo" contará com a opção de montar uma equipe de seis monstrinhos para batalhar contra os 8 lideres de ginásio em busca de se tornar o campeão Pokemon!
 
-O "Jogo" contará com todas as funcionalidades básicas dos jogos da franquia original, tal quais: 
+De acordo com os requisitos acima, serão utilizadas entidades (classes) tais como:
 
-- Criar um jogador, que pode ser menino ou menina; 
-- Escolher um pokemon inicial; 
-- Capturar pokemons selvagens; 
-- Carregar uma equipe de até 6 pokemons, onde os outros serão enviados automáticamente para a BoxPokemon caso a equipe atual já esteja formada de 6 monstrinhos; 
-- Batalhar com 8 lideres de ginasio em busca de adquirir insignias; 
-- Lutar contra a elite dos 4 em busca de se tornar o campeão pokemon!
+- Pokemon
+- Treinador
+- Insignia
 
-Com base nos requisitos acima para o sistema, o projeto contará com entidades classe como: 
-
-- Pokemon; 
-- Jogador; 
-- Box; 
-- Insignia; 
-- NPC.
-
-E interfaces, tais quais: 
-
-- Treinador, 
-- LiderDeGinasio, 
-- MembroDaElite.
-- E outras que se façam necessárias (Como por exemplo, os tipos dos monstrinhos).
