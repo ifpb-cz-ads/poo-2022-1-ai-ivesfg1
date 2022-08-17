@@ -2,37 +2,44 @@ package pokemonPackage;
 
 public class Pokemon {
 
-    private String nome;
-    private int ataque;
-    private int vida;
+    private String name;
+    private int attack;
+    private int health;
 
-    public Pokemon(String nome, int ataque, int vida) {
-        this.nome = nome;
-        this.ataque = ataque;
-        this.vida = vida;
+    public Pokemon(String name, int attack, int health) {
+        this.name = name;
+        this.attack = attack;
+        this.health = health;
     }
 
-    public String getNome() {
-        return nome;
+    public String getName() {
+        return name;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public int getAttack() {
+        return attack;
     }
 
-    public int getAtaque() {
-        return ataque;
+    public int getHealth() {
+        return health;
     }
 
-    public void setAtaque(int ataque) {
-        this.ataque = ataque;
+    public void setHealth(int health) {
+        this.health = health;
     }
 
-    public int getVida() {
-        return vida;
+    public void makeNoise() {
+        System.out.print(this.getName() + " says: ");
     }
 
-    public void setVida(int vida) {
-        this.vida = vida;
+    public void attack(Pokemon foe) {
+        int damageValue = this.getAttack();
+        foe.sufferDamage(damageValue);
     }
+
+    public void sufferDamage(int damageValue) {
+        this.health -= damageValue;
+        System.out.println(this.getName() + " sofreu " + damageValue + " de dano.");
+    }
+
 }
